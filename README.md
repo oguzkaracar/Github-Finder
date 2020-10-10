@@ -1,1 +1,3 @@
--- link: https://github.com/bradtraversy/github-finder
+## Github Finder
+
+live-app: [github-finder](https://trgithubfinder06.netlify.app/)
